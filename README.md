@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/jeeva64/DSA-REVISION/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
