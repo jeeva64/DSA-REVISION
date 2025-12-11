@@ -46,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/jeeva64/DSA-REVISION/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
