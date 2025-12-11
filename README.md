@@ -13,6 +13,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jeeva64/DSA-REVISION/tree/master/0128-longest-consecutive-sequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/jeeva64/DSA-REVISION/tree/master/0383-ransom-note) |
 ## Union Find
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/jeeva64/DSA-REVISION/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/jeeva64/DSA-REVISION/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
