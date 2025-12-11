@@ -50,6 +50,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/jeeva64/DSA-REVISION/tree/master/0383-ransom-note) |
 | [0953-reverse-only-letters](https://github.com/jeeva64/DSA-REVISION/tree/master/0953-reverse-only-letters) |
+| [2235-capitalize-the-title](https://github.com/jeeva64/DSA-REVISION/tree/master/2235-capitalize-the-title) |
 ## Counting
 |  |
 | ------- |
