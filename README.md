@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/jeeva64/DSA-REVISION/tree/master/0057-insert-interval) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jeeva64/DSA-REVISION/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
