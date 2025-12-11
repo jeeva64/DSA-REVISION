@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/jeeva64/DSA-REVISION/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
@@ -94,6 +95,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jeeva64/DSA-REVISION/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
