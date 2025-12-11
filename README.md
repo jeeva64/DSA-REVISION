@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jeeva64/DSA-REVISION/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 ## Matrix
 |  |
@@ -64,6 +66,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 | [0953-reverse-only-letters](https://github.com/jeeva64/DSA-REVISION/tree/master/0953-reverse-only-letters) |
 ## Binary Search
