@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/jeeva64/DSA-REVISION/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/jeeva64/DSA-REVISION/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jeeva64/DSA-REVISION/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jeeva64/DSA-REVISION/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/jeeva64/DSA-REVISION/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jeeva64/DSA-REVISION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
@@ -45,6 +47,7 @@
 | [0036-valid-sudoku](https://github.com/jeeva64/DSA-REVISION/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/jeeva64/DSA-REVISION/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
