@@ -19,6 +19,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
+| [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
+| [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
