@@ -4,7 +4,7 @@
 ## Array
 |  |
 | ------- |
-| [0036-valid-sudoku](https://github.com/jeeva64/DSA-REVISION/tree/master/0036-valid-sudoku) |
+| [0036-valid-sudoku](https://github.com/jeeva64/DSA-REVISION/tree/main/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/jeeva64/DSA-REVISION/tree/master/0057-insert-interval) |
