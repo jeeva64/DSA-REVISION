@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/jeeva64/DSA-REVISION/tree/main/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
@@ -90,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0792-binary-search) |
