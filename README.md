@@ -96,6 +96,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/jeeva64/DSA-REVISION/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0792-binary-search) |
 ## Sorting
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0324-wiggle-sort-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/jeeva64/DSA-REVISION/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
