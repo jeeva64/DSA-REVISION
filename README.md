@@ -31,6 +31,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jeeva64/DSA-REVISION/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0792-binary-search) |
+| [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 | [0383-ransom-note](https://github.com/jeeva64/DSA-REVISION/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
+| [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
+| [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -63,6 +66,7 @@
 | [0073-set-matrix-zeroes](https://github.com/jeeva64/DSA-REVISION/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 ## Simulation
 |  |
 | ------- |
