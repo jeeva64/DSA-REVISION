@@ -34,6 +34,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jeeva64/DSA-REVISION/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Union Find
 |  |
 | ------- |
