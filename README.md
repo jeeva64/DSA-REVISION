@@ -36,6 +36,7 @@
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
+| [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
+| [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0324-wiggle-sort-ii) |
+| [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 ## Quickselect
 |  |
 | ------- |
