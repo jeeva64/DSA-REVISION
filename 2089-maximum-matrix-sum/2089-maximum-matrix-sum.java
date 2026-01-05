@@ -11,7 +11,7 @@ class Solution {
                 minNum = Math.min(minNum, Math.abs(matrix[row][col]));
                 
                 //Count negative numbers
-                if(matrix[row][col] < 0) {
+                if(matrix[row][col] < 0) {      //Debug by myself
                     minusSignCount++;
                 } 
             }
@@ -21,5 +21,8 @@ class Solution {
             return result;
         }
         return result - (2*minNum);
+        //beacuase, for odd minus count, we already added that num
+        //but it is nagative, so that added value is subtrated first
+        //then actual negative number is then subtracted from sum
     }
 }
