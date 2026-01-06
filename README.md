@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/jeeva64/DSA-REVISION/tree/main/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/jeeva64/DSA-REVISION/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/jeeva64/DSA-REVISION/tree/master/0057-insert-interval) |
@@ -106,6 +107,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jeeva64/DSA-REVISION/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
@@ -159,6 +161,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -181,4 +184,12 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/jeeva64/DSA-REVISION/tree/master/0181-employees-earning-more-than-their-managers) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
