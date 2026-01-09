@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/jeeva64/DSA-REVISION/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
