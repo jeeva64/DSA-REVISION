@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jeeva64/DSA-REVISION/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jeeva64/DSA-REVISION/tree/master/0242-valid-anagram) |
@@ -194,6 +195,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
