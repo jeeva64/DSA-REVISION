@@ -157,6 +157,7 @@
 | ------- |
 | [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
