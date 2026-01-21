@@ -69,6 +69,7 @@
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeeva64/DSA-REVISION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 ## Matrix
@@ -103,6 +104,7 @@
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/jeeva64/DSA-REVISION/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jeeva64/DSA-REVISION/tree/master/0383-ransom-note) |
 | [0953-reverse-only-letters](https://github.com/jeeva64/DSA-REVISION/tree/master/0953-reverse-only-letters) |
@@ -209,6 +211,7 @@
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeeva64/DSA-REVISION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jeeva64/DSA-REVISION/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -229,4 +232,8 @@
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
