@@ -34,6 +34,7 @@
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/jeeva64/DSA-REVISION/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jeeva64/DSA-REVISION/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
@@ -212,10 +213,12 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeeva64/DSA-REVISION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jeeva64/DSA-REVISION/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
+| [0739-daily-temperatures](https://github.com/jeeva64/DSA-REVISION/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/jeeva64/DSA-REVISION/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
