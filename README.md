@@ -29,6 +29,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
@@ -53,6 +54,7 @@
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jeeva64/DSA-REVISION/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/jeeva64/DSA-REVISION/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
@@ -127,6 +129,7 @@
 | [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0953-reverse-only-letters](https://github.com/jeeva64/DSA-REVISION/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
@@ -140,6 +143,7 @@
 | [0278-first-bad-version](https://github.com/jeeva64/DSA-REVISION/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jeeva64/DSA-REVISION/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -152,6 +156,7 @@
 | [0242-valid-anagram](https://github.com/jeeva64/DSA-REVISION/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
