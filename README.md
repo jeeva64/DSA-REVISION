@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/jeeva64/DSA-REVISION/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jeeva64/DSA-REVISION/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jeeva64/DSA-REVISION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jeeva64/DSA-REVISION/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
@@ -215,6 +216,7 @@
 | [0020-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jeeva64/DSA-REVISION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeeva64/DSA-REVISION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jeeva64/DSA-REVISION/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jeeva64/DSA-REVISION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/jeeva64/DSA-REVISION/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
