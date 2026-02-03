@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jeeva64/DSA-REVISION/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/jeeva64/DSA-REVISION/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 | [0860-design-circular-queue](https://github.com/jeeva64/DSA-REVISION/tree/master/0860-design-circular-queue) |
 ## Randomized
@@ -235,6 +236,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeeva64/DSA-REVISION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jeeva64/DSA-REVISION/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/jeeva64/DSA-REVISION/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/jeeva64/DSA-REVISION/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -269,6 +271,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jeeva64/DSA-REVISION/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/jeeva64/DSA-REVISION/tree/master/0239-sliding-window-maximum) |
 | [0860-design-circular-queue](https://github.com/jeeva64/DSA-REVISION/tree/master/0860-design-circular-queue) |
 ## Sliding Window
