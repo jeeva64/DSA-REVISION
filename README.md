@@ -141,6 +141,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/jeeva64/DSA-REVISION/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/jeeva64/DSA-REVISION/tree/master/0860-design-circular-queue) |
+| [0908-middle-of-the-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0908-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
