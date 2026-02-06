@@ -266,11 +266,13 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jeeva64/DSA-REVISION/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/jeeva64/DSA-REVISION/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0908-middle-of-the-linked-list) |
 ## Queue
