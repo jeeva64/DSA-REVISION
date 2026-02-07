@@ -134,6 +134,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jeeva64/DSA-REVISION/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jeeva64/DSA-REVISION/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
@@ -271,6 +272,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/jeeva64/DSA-REVISION/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/jeeva64/DSA-REVISION/tree/master/0860-design-circular-queue) |
