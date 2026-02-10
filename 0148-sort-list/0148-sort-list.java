@@ -9,6 +9,7 @@
  * }
  */
 class Solution {
+    //Uses recursion like merge sort
     public ListNode sortList(ListNode head) {
         if(head == null || head.next == null){
             return head;
@@ -19,6 +20,7 @@ class Solution {
         ListNode right = sortList(middle);
         return mergeTwoList(left,right);
     }
+    //Merge Two lists pattern
     public static ListNode mergeTwoList(ListNode list1,ListNode list2){
         ListNode result = new ListNode(-1);
         ListNode copy = result;
@@ -35,6 +37,7 @@ class Solution {
         result.next = (list1 != null) ? list1 : list2;
         return copy.next;
     }
+    //Middle of the List Pattern by Tortoise and hare
     public static ListNode middleList(ListNode node){
         ListNode slow = node, fast = node, prev = null;
         while(fast != null && fast.next != null){
