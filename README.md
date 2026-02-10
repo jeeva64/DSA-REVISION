@@ -139,6 +139,7 @@
 | [0075-sort-colors](https://github.com/jeeva64/DSA-REVISION/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jeeva64/DSA-REVISION/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0287-find-the-duplicate-number) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jeeva64/DSA-REVISION/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jeeva64/DSA-REVISION/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0268-missing-number) |
@@ -189,6 +191,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0191-number-of-1-bits) |
@@ -276,6 +279,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jeeva64/DSA-REVISION/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/jeeva64/DSA-REVISION/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/jeeva64/DSA-REVISION/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0908-middle-of-the-linked-list) |
@@ -293,4 +297,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeeva64/DSA-REVISION/tree/master/0239-sliding-window-maximum) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
