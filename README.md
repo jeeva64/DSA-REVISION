@@ -137,6 +137,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jeeva64/DSA-REVISION/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jeeva64/DSA-REVISION/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jeeva64/DSA-REVISION/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/jeeva64/DSA-REVISION/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0206-reverse-linked-list) |
