@@ -144,6 +144,7 @@
 | [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -247,6 +248,7 @@
 | [0155-min-stack](https://github.com/jeeva64/DSA-REVISION/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/jeeva64/DSA-REVISION/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/jeeva64/DSA-REVISION/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -277,6 +279,7 @@
 | [0143-reorder-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 | [0143-reorder-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0234-palindrome-linked-list) |
 | [0860-design-circular-queue](https://github.com/jeeva64/DSA-REVISION/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0908-middle-of-the-linked-list) |
 ## Queue
