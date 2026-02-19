@@ -116,6 +116,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jeeva64/DSA-REVISION/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/jeeva64/DSA-REVISION/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jeeva64/DSA-REVISION/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -314,4 +316,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
