@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/jeeva64/DSA-REVISION/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/jeeva64/DSA-REVISION/tree/main/0036-valid-sudoku) |
@@ -138,6 +139,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jeeva64/DSA-REVISION/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/jeeva64/DSA-REVISION/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jeeva64/DSA-REVISION/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0086-partition-list) |
