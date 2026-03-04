@@ -17,6 +17,7 @@
 | [0046-permutations](https://github.com/jeeva64/DSA-REVISION/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/jeeva64/DSA-REVISION/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/jeeva64/DSA-REVISION/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/jeeva64/DSA-REVISION/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/jeeva64/DSA-REVISION/tree/master/0073-set-matrix-zeroes) |
@@ -223,6 +224,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jeeva64/DSA-REVISION/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0190-reverse-bits) |
@@ -243,6 +245,7 @@
 | [0022-generate-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/jeeva64/DSA-REVISION/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0338-counting-bits) |
 ## Greedy

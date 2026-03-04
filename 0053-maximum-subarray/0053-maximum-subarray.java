@@ -1,0 +1,16 @@
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int maxSum = nums[0];
+        int curSum = 0;
+
+        //Dynamic Sliding window
+        for(int num : nums){
+            if(curSum < 0)
+                curSum = 0;
+
+            curSum += num;
+            maxSum = Math.max(curSum, maxSum);
+        }
+        return maxSum;
+    }
+}
