@@ -148,6 +148,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/jeeva64/DSA-REVISION/tree/master/0692-top-k-frequent-words) |
 | [0953-reverse-only-letters](https://github.com/jeeva64/DSA-REVISION/tree/master/0953-reverse-only-letters) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2235-capitalize-the-title](https://github.com/jeeva64/DSA-REVISION/tree/master/2235-capitalize-the-title) |
 ## Counting
 |  |
