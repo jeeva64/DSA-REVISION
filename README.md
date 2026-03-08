@@ -307,18 +307,22 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Recursion
 |  |
