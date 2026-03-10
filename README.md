@@ -310,6 +310,7 @@
 | [0100-same-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -317,6 +318,7 @@
 | [0100-same-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -331,6 +333,7 @@
 | [0100-same-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Recursion
 |  |
@@ -401,4 +404,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/jeeva64/DSA-REVISION/tree/master/0692-top-k-frequent-words) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
