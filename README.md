@@ -320,6 +320,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jeeva64/DSA-REVISION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -333,6 +334,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jeeva64/DSA-REVISION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -344,6 +346,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -359,6 +362,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jeeva64/DSA-REVISION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Recursion
 |  |
