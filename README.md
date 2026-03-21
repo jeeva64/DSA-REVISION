@@ -88,6 +88,7 @@
 | [0692-top-k-frequent-words](https://github.com/jeeva64/DSA-REVISION/tree/master/0692-top-k-frequent-words) |
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0692-top-k-frequent-words](https://github.com/jeeva64/DSA-REVISION/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/jeeva64/DSA-REVISION/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 ## Bit Manipulation
 |  |
@@ -333,6 +335,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -351,6 +354,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -363,6 +367,7 @@
 | [0226-invert-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -384,6 +389,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Recursion
 |  |
