@@ -17,20 +17,28 @@ class Node {
     }
 }
 */
+
 class Solution {
     Map<Node, Node> map = new HashMap<>();
     public Node cloneGraph(Node node) {
-        if(node == null)    return null;                        //base case for recursion
-        Node newNode = new Node(node.val);                      //clone first node only
-        map.put(node, newNode);                                   
+        //Base Case For Recursion
+        if(node == null)        return null;
 
-        for(Node neighbor : node.neighbors){
-            if(map.containsKey(neighbor)){                  //if node's neighbors list element contains in map then
-                newNode.neighbors.add(map.get(neighbor));   //we directly get those list and add to newNode as neighbors
-            }else{
-                newNode.neighbors.add(cloneGraph(neighbor));    //if not in map of neighbors list do recursion and backtrack it
-            }
-        }
+        //Create new node to clone the graph
+        Node newNode = new Node(node.val);
+        map.put(node, newNode);
+
+        //DFS
+        for(Node neighbor : node.neighbors) {
+            //if node's neighbor list elements (as key) contains in map then
+            //we directly add entire list to newNode as neighbors list
+            if(map.containsKey(neighbor))
+                newNode.neighbors.add(map.get(neighbor));
+
+            //if not in map of neighbors list do recursion.
+            else
+                newNode.neighbors.add(cloneGraph(neighbor));         
+        }       
         return newNode;
     }
 }
