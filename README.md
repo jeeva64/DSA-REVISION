@@ -61,6 +61,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/jeeva64/DSA-REVISION/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/jeeva64/DSA-REVISION/tree/master/1036-rotting-oranges) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 ## Hash Table
@@ -125,6 +126,7 @@
 | [0542-01-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jeeva64/DSA-REVISION/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
+| [1036-rotting-oranges](https://github.com/jeeva64/DSA-REVISION/tree/master/1036-rotting-oranges) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 ## Simulation
 |  |
@@ -389,6 +391,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/jeeva64/DSA-REVISION/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/jeeva64/DSA-REVISION/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
