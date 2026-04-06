@@ -24,6 +24,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jeeva64/DSA-REVISION/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jeeva64/DSA-REVISION/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jeeva64/DSA-REVISION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jeeva64/DSA-REVISION/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -121,6 +122,7 @@
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jeeva64/DSA-REVISION/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jeeva64/DSA-REVISION/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0542-01-matrix) |
@@ -155,6 +157,7 @@
 | [0022-generate-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jeeva64/DSA-REVISION/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
@@ -354,6 +357,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeeva64/DSA-REVISION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0100-same-tree) |
@@ -474,6 +478,7 @@
 | [0046-permutations](https://github.com/jeeva64/DSA-REVISION/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jeeva64/DSA-REVISION/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/jeeva64/DSA-REVISION/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0079-word-search) |
 ## Geometry
 |  |
 | ------- |
