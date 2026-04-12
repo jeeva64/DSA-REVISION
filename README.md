@@ -108,6 +108,7 @@
 | [0007-reverse-integer](https://github.com/jeeva64/DSA-REVISION/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/jeeva64/DSA-REVISION/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/jeeva64/DSA-REVISION/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeeva64/DSA-REVISION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
@@ -278,6 +279,7 @@
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jeeva64/DSA-REVISION/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jeeva64/DSA-REVISION/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0338-counting-bits) |
@@ -527,4 +529,8 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jeeva64/DSA-REVISION/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
