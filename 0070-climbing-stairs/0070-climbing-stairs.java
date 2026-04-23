@@ -1,17 +1,19 @@
-//Dynamic Programming with Two Variable Linear Approach
-//same as Fibonacci Number
 class Solution {
-       public int climbStairs(int n) {
-        if(n <= 2)  return n;
-        int past = 1;          //only one single possible case
-        int prev = 2;          //for two possible case to reach staircase
-        int cur = 0;
+    //Finonacci Series excluding zero as input
+    public int climbStairs(int n) {
+        //Edge case with 2 for climbing stairs
+        if(n <= 2)      return n;
 
-        for(int i = 3; i <= n; i++){
-            cur = past + prev;
+        int past = 1;
+        int prev = 2;
+        int result = 0;
+
+        //Start from 3
+        for(int i = 3; i <= n; i++) {
+            result = past + prev;
             past = prev;
-            prev = cur;
+            prev = result;
         }
-        return cur;
+        return result;
     }
 }
