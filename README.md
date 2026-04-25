@@ -34,6 +34,7 @@
 | [0134-gas-station](https://github.com/jeeva64/DSA-REVISION/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeeva64/DSA-REVISION/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/jeeva64/DSA-REVISION/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
@@ -291,6 +292,7 @@
 | [0070-climbing-stairs](https://github.com/jeeva64/DSA-REVISION/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva64/DSA-REVISION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/jeeva64/DSA-REVISION/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0509-fibonacci-number) |
