@@ -1,0 +1,28 @@
+class Solution {
+    public int maximalSquare(char[][] matrix) {
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        //Multi Dimensional DP
+        int[][] dp = new int[rows+1][cols+1];
+        int maxSide = 0;
+
+        for(int i = 1; i <= rows; i++)  {
+            for(int j = 1; j <= cols; j++)  {
+                if(matrix[i-1][j-1] == '1') {
+                    //here 1 is for 1*1 submatrix as consideration
+                    dp[i][j] = 1 +  Math.min(
+                        dp[i-1][j],             //Above value in previous row
+                        Math.min(
+                            dp[i][j-1],         //Left value in same row
+                            dp[i-1][j-1]        //Diagonal Value
+                        )           
+                    );
+                    //Gets Maximum side seen so far
+                    maxSide = Math.max(maxSide, dp[i][j]);
+                }
+            }
+        }
+        //Computes Area by Side Length
+        return maxSide * maxSide;
+    }
+}
