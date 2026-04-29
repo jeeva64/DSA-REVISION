@@ -71,6 +71,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/jeeva64/DSA-REVISION/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/jeeva64/DSA-REVISION/tree/master/1036-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 ## Hash Table
@@ -142,6 +143,7 @@
 | [0733-flood-fill](https://github.com/jeeva64/DSA-REVISION/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/jeeva64/DSA-REVISION/tree/master/1036-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 ## Simulation
 |  |
@@ -301,6 +303,7 @@
 | [0338-counting-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0542-01-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
