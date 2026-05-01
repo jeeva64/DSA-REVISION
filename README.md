@@ -56,6 +56,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jeeva64/DSA-REVISION/tree/master/0417-pacific-atlantic-water-flow) |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0540-single-element-in-a-sorted-array) |
@@ -306,6 +307,7 @@
 | [0322-coin-change](https://github.com/jeeva64/DSA-REVISION/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0542-01-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
