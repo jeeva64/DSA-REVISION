@@ -23,10 +23,9 @@ class Solution {
 
         //Finds k position & 
         int idx = 0;
-        ListNode slow = null, fast = head;
+        ListNode fast = head;
         while(idx != n-k-1) {
             idx++;
-            slow = fast;
             fast = fast.next;
         }
 
