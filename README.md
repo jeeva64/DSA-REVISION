@@ -78,6 +78,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
+| [3660-jump-game-ix](https://github.com/jeeva64/DSA-REVISION/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | [0509-fibonacci-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0542-01-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3660-jump-game-ix](https://github.com/jeeva64/DSA-REVISION/tree/master/3660-jump-game-ix) |
 ## Greedy
 |  |
 | ------- |
