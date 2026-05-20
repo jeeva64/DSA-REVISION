@@ -79,6 +79,7 @@
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jeeva64/DSA-REVISION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3660-jump-game-ix](https://github.com/jeeva64/DSA-REVISION/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [0268-missing-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0338-counting-bits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
