@@ -179,6 +179,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jeeva64/DSA-REVISION/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0079-word-search) |
@@ -208,6 +209,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jeeva64/DSA-REVISION/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jeeva64/DSA-REVISION/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jeeva64/DSA-REVISION/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0061-rotate-list) |
@@ -551,6 +553,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
