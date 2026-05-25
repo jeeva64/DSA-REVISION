@@ -78,6 +78,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jeeva64/DSA-REVISION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/jeeva64/DSA-REVISION/tree/master/1732-find-the-highest-altitude) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3660-jump-game-ix](https://github.com/jeeva64/DSA-REVISION/tree/master/3660-jump-game-ix) |
@@ -299,6 +300,7 @@
 | [0238-product-of-array-except-self](https://github.com/jeeva64/DSA-REVISION/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/jeeva64/DSA-REVISION/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
