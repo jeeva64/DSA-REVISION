@@ -103,6 +103,7 @@
 | [0169-majority-element](https://github.com/jeeva64/DSA-REVISION/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jeeva64/DSA-REVISION/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/jeeva64/DSA-REVISION/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
@@ -192,6 +193,7 @@
 | [0179-largest-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/jeeva64/DSA-REVISION/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/jeeva64/DSA-REVISION/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/jeeva64/DSA-REVISION/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/jeeva64/DSA-REVISION/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/jeeva64/DSA-REVISION/tree/master/0424-longest-repeating-character-replacement) |
