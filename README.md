@@ -65,6 +65,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/jeeva64/DSA-REVISION/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/jeeva64/DSA-REVISION/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/jeeva64/DSA-REVISION/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/jeeva64/DSA-REVISION/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/jeeva64/DSA-REVISION/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jeeva64/DSA-REVISION/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -304,6 +305,7 @@
 | [0238-product-of-array-except-self](https://github.com/jeeva64/DSA-REVISION/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/jeeva64/DSA-REVISION/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/jeeva64/DSA-REVISION/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
