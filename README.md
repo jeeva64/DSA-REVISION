@@ -76,6 +76,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/jeeva64/DSA-REVISION/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/jeeva64/DSA-REVISION/tree/master/1036-rotting-oranges) |
+| [1207-unique-number-of-occurrences](https://github.com/jeeva64/DSA-REVISION/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jeeva64/DSA-REVISION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -117,6 +118,7 @@
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-unique-number-of-occurrences](https://github.com/jeeva64/DSA-REVISION/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
