@@ -173,6 +173,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jeeva64/DSA-REVISION/tree/master/0380-insert-delete-getrandom-o1) |
 | [0860-design-circular-queue](https://github.com/jeeva64/DSA-REVISION/tree/master/0860-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/jeeva64/DSA-REVISION/tree/master/0933-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -524,6 +525,7 @@
 | [0225-implement-stack-using-queues](https://github.com/jeeva64/DSA-REVISION/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/jeeva64/DSA-REVISION/tree/master/0239-sliding-window-maximum) |
 | [0860-design-circular-queue](https://github.com/jeeva64/DSA-REVISION/tree/master/0860-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/jeeva64/DSA-REVISION/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -602,4 +604,8 @@
 | [0070-climbing-stairs](https://github.com/jeeva64/DSA-REVISION/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0509-fibonacci-number) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/jeeva64/DSA-REVISION/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
