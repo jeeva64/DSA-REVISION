@@ -63,6 +63,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/jeeva64/DSA-REVISION/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/jeeva64/DSA-REVISION/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/jeeva64/DSA-REVISION/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/jeeva64/DSA-REVISION/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/jeeva64/DSA-REVISION/tree/master/0724-find-pivot-index) |
@@ -534,6 +535,7 @@
 | [0239-sliding-window-maximum](https://github.com/jeeva64/DSA-REVISION/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jeeva64/DSA-REVISION/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/jeeva64/DSA-REVISION/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/jeeva64/DSA-REVISION/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
