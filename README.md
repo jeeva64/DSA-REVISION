@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
+| [2390-removing-stars-from-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0953-reverse-only-letters](https://github.com/jeeva64/DSA-REVISION/tree/master/0953-reverse-only-letters) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2235-capitalize-the-title](https://github.com/jeeva64/DSA-REVISION/tree/master/2235-capitalize-the-title) |
+| [2390-removing-stars-from-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -383,6 +385,7 @@
 | [0225-implement-stack-using-queues](https://github.com/jeeva64/DSA-REVISION/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/jeeva64/DSA-REVISION/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/jeeva64/DSA-REVISION/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
