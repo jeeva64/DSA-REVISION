@@ -86,6 +86,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3660-jump-game-ix](https://github.com/jeeva64/DSA-REVISION/tree/master/3660-jump-game-ix) |
+| [3838-weighted-word-mapping](https://github.com/jeeva64/DSA-REVISION/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/2390-removing-stars-from-a-string) |
+| [3838-weighted-word-mapping](https://github.com/jeeva64/DSA-REVISION/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2235-capitalize-the-title](https://github.com/jeeva64/DSA-REVISION/tree/master/2235-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/2390-removing-stars-from-a-string) |
+| [3838-weighted-word-mapping](https://github.com/jeeva64/DSA-REVISION/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
