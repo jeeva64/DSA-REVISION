@@ -133,6 +133,7 @@
 | [0007-reverse-integer](https://github.com/jeeva64/DSA-REVISION/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/jeeva64/DSA-REVISION/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jeeva64/DSA-REVISION/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/jeeva64/DSA-REVISION/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jeeva64/DSA-REVISION/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeeva64/DSA-REVISION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jeeva64/DSA-REVISION/tree/master/0189-rotate-array) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/jeeva64/DSA-REVISION/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/2390-removing-stars-from-a-string) |
 | [3838-weighted-word-mapping](https://github.com/jeeva64/DSA-REVISION/tree/master/3838-weighted-word-mapping) |
 ## Design
@@ -193,6 +195,7 @@
 | [0022-generate-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/jeeva64/DSA-REVISION/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/jeeva64/DSA-REVISION/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/jeeva64/DSA-REVISION/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jeeva64/DSA-REVISION/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/jeeva64/DSA-REVISION/tree/master/0125-valid-palindrome) |
@@ -287,6 +290,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jeeva64/DSA-REVISION/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jeeva64/DSA-REVISION/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/jeeva64/DSA-REVISION/tree/master/0190-reverse-bits) |
