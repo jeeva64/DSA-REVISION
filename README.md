@@ -82,6 +82,7 @@
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jeeva64/DSA-REVISION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/jeeva64/DSA-REVISION/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/jeeva64/DSA-REVISION/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -287,6 +288,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/jeeva64/DSA-REVISION/tree/master/1833-maximum-ice-cream-bars) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -351,6 +353,7 @@
 | [0134-gas-station](https://github.com/jeeva64/DSA-REVISION/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/jeeva64/DSA-REVISION/tree/master/0324-wiggle-sort-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/jeeva64/DSA-REVISION/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 ## Quickselect
 |  |
@@ -620,4 +623,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/jeeva64/DSA-REVISION/tree/master/0933-number-of-recent-calls) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/jeeva64/DSA-REVISION/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
