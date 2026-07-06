@@ -80,6 +80,7 @@
 | [1036-rotting-oranges](https://github.com/jeeva64/DSA-REVISION/tree/master/1036-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/jeeva64/DSA-REVISION/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1288-remove-covered-intervals](https://github.com/jeeva64/DSA-REVISION/tree/master/1288-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jeeva64/DSA-REVISION/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/jeeva64/DSA-REVISION/tree/master/1732-find-the-highest-altitude) |
@@ -289,6 +290,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/jeeva64/DSA-REVISION/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/jeeva64/DSA-REVISION/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/jeeva64/DSA-REVISION/tree/master/1288-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/jeeva64/DSA-REVISION/tree/master/1306-minimum-absolute-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/jeeva64/DSA-REVISION/tree/master/1833-maximum-ice-cream-bars) |
 ## Bit Manipulation
