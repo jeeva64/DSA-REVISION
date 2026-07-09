@@ -87,6 +87,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/jeeva64/DSA-REVISION/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/jeeva64/DSA-REVISION/tree/master/2352-equal-row-and-column-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3660-jump-game-ix](https://github.com/jeeva64/DSA-REVISION/tree/master/3660-jump-game-ix) |
 | [3838-weighted-word-mapping](https://github.com/jeeva64/DSA-REVISION/tree/master/3838-weighted-word-mapping) |
@@ -125,6 +126,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jeeva64/DSA-REVISION/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/jeeva64/DSA-REVISION/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/jeeva64/DSA-REVISION/tree/master/2352-equal-row-and-column-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jeeva64/DSA-REVISION/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
 |  |
@@ -167,11 +169,13 @@
 | [1036-rotting-oranges](https://github.com/jeeva64/DSA-REVISION/tree/master/1036-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jeeva64/DSA-REVISION/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2089-maximum-matrix-sum](https://github.com/jeeva64/DSA-REVISION/tree/master/2089-maximum-matrix-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/jeeva64/DSA-REVISION/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeeva64/DSA-REVISION/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jeeva64/DSA-REVISION/tree/master/0067-add-binary) |
+| [2352-equal-row-and-column-pairs](https://github.com/jeeva64/DSA-REVISION/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/jeeva64/DSA-REVISION/tree/master/2390-removing-stars-from-a-string) |
 | [3838-weighted-word-mapping](https://github.com/jeeva64/DSA-REVISION/tree/master/3838-weighted-word-mapping) |
 ## Design
