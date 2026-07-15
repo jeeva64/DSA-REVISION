@@ -148,6 +148,7 @@
 | [0509-fibonacci-number](https://github.com/jeeva64/DSA-REVISION/tree/master/0509-fibonacci-number) |
 | [0870-magic-squares-in-grid](https://github.com/jeeva64/DSA-REVISION/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/jeeva64/DSA-REVISION/tree/master/1014-k-closest-points-to-origin) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jeeva64/DSA-REVISION/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -641,4 +642,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/jeeva64/DSA-REVISION/tree/master/1833-maximum-ice-cream-bars) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jeeva64/DSA-REVISION/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
