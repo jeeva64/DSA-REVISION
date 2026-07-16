@@ -1,14 +1,8 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        int sumOdd = 0, sumEven = 0;
-
-        //Computes n +ve odd and even sums
-        for(int num = 1; num <= 2 * n; num++) {
-            if(num % 2 == 0)
-                sumEven += num;
-            else
-                sumOdd += num;
-        }
+        int sumOdd = n * n;
+        int sumEven = n * (n + 1);
+        
         return getGcd(sumOdd, sumEven);
     }
     private int getGcd(int a, int b) {
